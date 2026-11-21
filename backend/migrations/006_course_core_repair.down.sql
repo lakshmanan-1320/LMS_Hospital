@@ -1,0 +1,1 @@
+﻿-- Rollback intentionally preserves shared Course Core objects and data.
